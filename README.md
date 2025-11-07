@@ -20,14 +20,4 @@ I'm a Principal Technical Program Manager driving Azure Fundamentals across a po
 - Batch automation scripts for one-click environment setup and dashboard deployment
 - VS Code integration for enhanced development productivity
 
-My GitHub activity includes private repositories where I build:
-- Reusable dashboard frameworks with modular, file-based architecture
-- Query libraries and configuration systems for operational analytics
-- Python web applications that demonstrate modern development practices
-
-My GitHub activity is mostly private due to the nature of my work, but I use this space to:
-- Experiment with AI and Copilot in VS Code
-- Build learning projects that strengthen my query and automation skills
-- Explore ways to combine data, visualization, and automation for business impact
-
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/carlkshipley/) for my professional story.
