@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carl Shipley
 
-I'm a Principal Technical Program Manager driving Azure Fundamentals across a portfolio of cloud services. While my day job centers on strategy and program delivery, I actively code and develop solutions.
+I'm a Principal Technical Program Manager driving Azure Fundamentals across a portfolio of cloud services. While my day job centers on strategy and program delivery, I actively code and develop solutions using AI-assisted tools (Github Copilot in VS Code).
 
 ## Technical Development Examples
 
